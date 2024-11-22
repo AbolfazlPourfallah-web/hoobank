@@ -9,7 +9,10 @@
 
 - Role - Frontend
 
--  contact us : with my [instagram] : (https://www.instagram.com/abolfazlpourfallah_web)  [linkedin] : (https://www.linkedin.com/in/abolfazl-pourfallah-53409333)
+
+-  contact us :
+- [instagram] : (https://www.instagram.com/abolfazlpourfallah_web)
+- [linkedin] : (https://www.linkedin.com/in/abolfazl-pourfallah-53409333a)
 
 
 
